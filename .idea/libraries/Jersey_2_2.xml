@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Jersey-2.2" type="JAX-RS">
+    <properties version="2.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/asm-all-repackaged-2.2.0-b14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/cglib-2.2.0-b14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/hk2-api-2.2.0-b14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/hk2-locator-2.2.0-b14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/hk2-utils-2.2.0-b14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/javax.annotation-api-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/javax.inject-2.2.0-b14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/javax.servlet-api-3.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/jaxb-api-2.2.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/osgi-resource-locator-1.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/persistence-api-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/org.osgi.core-4.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/validation-api-1.1.0.Final.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/guava-14.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/javax.ws.rs-api-2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/jersey-common.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/jersey-container-servlet.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/jersey-server.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/jersey-container-servlet-core.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-bundle/1.18.3/jersey-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
